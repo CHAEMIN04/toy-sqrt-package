@@ -1,0 +1,7 @@
+pyproject.toml
+src/toy_sqrt_package/_init_.py
+src/toy_sqrt_package/sqrt_operator.py
+src/toy_sqrt_package.egg-info/PKG-INFO
+src/toy_sqrt_package.egg-info/SOURCES.txt
+src/toy_sqrt_package.egg-info/dependency_links.txt
+src/toy_sqrt_package.egg-info/top_level.txt
